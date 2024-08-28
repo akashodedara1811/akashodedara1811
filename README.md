@@ -1,6 +1,6 @@
 <img src='https://github.com/akashodedara1811/akashodedara1811/blob/main/benner.jpg' width=100% height='130vh'/>
 <h1 align="center">Hi 👋, I'm Akash Odedara</h1>
-<h3 align="center">A passionate Web developer from Junagadh , Gujarat</h3>
+<h3 align="center">A Passionate Web Developer Having An Experience Of Building Web and Mobile Application With Html/css/Javascript/React Js/ C# / Asp.net and Some Other Cool Libra Gujarat</h3>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
