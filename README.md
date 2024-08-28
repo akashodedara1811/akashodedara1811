@@ -1,4 +1,4 @@
-
+<img src='https://github.com/akashodedara1811/akashodedara1811/blob/main/benner.jpg' width=100% height='130vh'/>
 <h1 align="center">Hi 👋, I'm Akash Odedara</h1>
 <h3 align="center">A passionate Web developer from Junagadh , Gujarat</h3>
 <div>
